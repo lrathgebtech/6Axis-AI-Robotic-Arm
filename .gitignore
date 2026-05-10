@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.venv/
+.pio/
+*.f3d.bak
+*-Backup.*
+build/
+dist/
+*.o
+*.elf
+*.hex
+*.log
+tests/results/raw/

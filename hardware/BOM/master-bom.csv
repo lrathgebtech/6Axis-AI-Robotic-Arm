@@ -1,0 +1,6 @@
+ID,Category,Part,Qty,Supplier,UnitCost,TotalCost,Status,Notes
+001,Compute,Jetson Orin Nano Dev Kit,1,NVIDIA,,,Planned,
+002,Vision,OAK-D Lite,1,Luxonis,,,Planned,
+003,MCU,Teensy 4.1,1,PJRC,,,Planned,
+004,Actuator,MKS Servo42C,3,MKS,,,Planned,Big joints
+005,Actuator,Feetech Servo (TBD),3,Feetech,,,Planned,Wrist joints
