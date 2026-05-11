@@ -204,7 +204,7 @@ _YouTube link coming soon_ · 📜 Scripts in [`project-management/vlog-scripts/
 
 ---
 
-## 🤝 Why This Repo Exists
+## Why This Repo Exists
 
 This repository serves **two audiences**:
 
@@ -225,8 +225,8 @@ You are free to use, modify, and distribute this work, **including commercially*
 
 ---
 
-## 📬 Contact
+## Contact
 
-Built by **[Your Name]** · [LinkedIn](#) · [YouTube](#) · [Email](#)
+Built by **[Lukas Rathgeb]** · [linkedin.com/in/lukasrathgeb](#) · [YouTube](RathgebTech) · [Email](Lrathgeb.tech@gmail.com)
 
 > _"The best way to learn how something works is to build it twice."_
