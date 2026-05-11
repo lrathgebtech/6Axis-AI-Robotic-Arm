@@ -227,6 +227,6 @@ You are free to use, modify, and distribute this work, **including commercially*
 
 ## Contact
 
-Built by **Lukas Rathgeb** · [LinkedIn](linkedin.com/in/lukasrathgeb) · [YouTube](https://youtube.com/@rathgebtech?si=JU9IMZOkAiA6r8uq) · [Email](mailto:lrathgeb.tech@gmail.com)
+Built by **Lukas Rathgeb** · [LinkedIn](www.linkedin.com/in/lukasrathgeb) · [YouTube](https://youtube.com/@rathgebtech?si=JU9IMZOkAiA6r8uq) · [Email](mailto:lrathgeb.tech@gmail.com)
 
 > _"The best way to learn how something works is to build it twice."_
