@@ -44,9 +44,9 @@ The system follows a biologically inspired three-tier model: **Brain → Nervous
                    ▼                         ▼
         ┌──────────────────────┐    ┌───────────────────┐
         │  TEENSY 4.1          │    │ WS2812B LED Ring  │
-        │  ░ NERVOUS SYSTEM ░  │    │ (Emotion feedback)│
-        │  • Real-time control │    └───────────────────┘
-        │  • Sensor fusion     │
+        │  ░ NERVOUS SYSTEM ░  │    │ Speaker           │
+        │  • Real-time control │    │ (Emotion feedback)│
+        │  • Sensor fusion     │    └───────────────────┘
         │  • Safety interlocks │
         └────┬──────────┬──────┘
              ▼          ▼
@@ -57,11 +57,11 @@ The system follows a biologically inspired three-tier model: **Brain → Nervous
                 ░ MUSCLES ░
 ```
 
-📖 Full details: [`docs/architecture/system-overview.md`](docs/architecture/system-overview.md)
+Full details: [`docs/architecture/system-overview.md`](docs/architecture/system-overview.md)
 
 ---
 
-## 🔧 Hardware Stack
+## Hardware Stack
 
 | Layer | Component | Role | Custom-Designed |
 |---|---|---|:---:|
@@ -81,7 +81,7 @@ The system follows a biologically inspired three-tier model: **Brain → Nervous
 
 ---
 
-## 💻 Software Stack
+## Software Stack
 
 | Layer | Stack |
 |---|---|
@@ -94,7 +94,7 @@ The system follows a biologically inspired three-tier model: **Brain → Nervous
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 6Axis-AI-Robotic-Arm/
@@ -158,7 +158,7 @@ The system follows a biologically inspired three-tier model: **Brain → Nervous
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 | Phase | Focus | Progress |
 |:---:|---|---|
@@ -170,11 +170,11 @@ The system follows a biologically inspired three-tier model: **Brain → Nervous
 | **5** | Voice + LED feedback integration | `░░░░░░░░░░`  0% |
 | **6** | Full autonomous voice-controlled demo | `░░░░░░░░░░`  0% |
 
-📅 Detailed milestones: [`ROADMAP.md`](ROADMAP.md)
+Detailed milestones: [`ROADMAP.md`](ROADMAP.md)
 
 ---
 
-## 🧪 Testing & Benchmarks
+## Testing & Benchmarks
 
 Every subsystem is validated against measurable targets — so each iteration shows *why* it's better than the last. This is the core of the **Data Lab** workflow.
 
@@ -189,7 +189,7 @@ All raw data + analysis: [`tests/results/`](tests/)
 
 ---
 
-## 🎥 Build Series on YouTube
+## Build Series on YouTube
 
 Every major milestone is documented as a vlog episode aimed at hobby engineers — full transparency including the failures.
 
@@ -200,7 +200,7 @@ Every major milestone is documented as a vlog episode aimed at hobby engineers �
 | 03 | First PCB design pass | ⚪ |
 | ... | | |
 
-📺 _YouTube link coming soon_ · 📜 Scripts in [`project-management/vlog-scripts/`](project-management/vlog-scripts/)
+_YouTube link coming soon_ · 📜 Scripts in [`project-management/vlog-scripts/`](project-management/vlog-scripts/)
 
 ---
 
